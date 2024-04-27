@@ -4,9 +4,9 @@ List of impressive projects in open source automation
 
 ## Contents
 
+- [Reproduction Templates](#reproduction-templates)
 - [Reproduction Generators](#reproduction-generators)
-- [Reproduction Templates](#reproduction-generators)
-- [Reproduction Generators](#reproduction-generators)
+- [Fully Automated Reproduction Creation](#fully-automated-reproduction-creation)
 
 ## Reproduction Templates
 
