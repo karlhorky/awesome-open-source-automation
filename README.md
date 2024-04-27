@@ -12,7 +12,7 @@ List of impressive projects in open source automation
 
 Starter templates to make it easier for contributors to create reproductions of bugs
 
-- Next.js CodeSandbox reproduction template: [CodeSandbox sandbox](https://codesandbox.io/p/sandbox/github/vercel/next.js/tree/canary/examples/reproduction-template)
+- Next.js CodeSandbox reproduction template: [repro template on CodeSandbox](https://codesandbox.io/p/sandbox/github/vercel/next.js/tree/canary/examples/reproduction-template)
 - [Testing Library Reproduction Template](https://github.com/testing-library/dom-testing-library-template)
 - [Ent Template Repository For Bug Reporting](https://github.com/ent/bug)
 - [Reproduction Template of ESLint Stylistic](https://github.com/eslint-community/eslint-stylistic-repro-template)
