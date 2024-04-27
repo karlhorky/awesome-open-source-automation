@@ -35,7 +35,3 @@ Configurable generator web apps or CLIs to make it easier for contributors to cr
 Automated capture of minimal reproductions of bugs without user effort
 
 - [Bun automatic reproduction generator concept](https://twitter.com/jarredsumner/status/1781214396263661985) 
-
-## Contributing
-
-In lieu of a formal style guide, take care to maintain the existing style of this list.
