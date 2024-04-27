@@ -1,6 +1,6 @@
-# awesome-open-source-automation
+# Awesome Open Source Automation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of awesome open source automation
+List of impressive projects in open source automation
 
 ## Contents
 
@@ -9,6 +9,8 @@ List of awesome open source automation
 - [Reproduction Generators](#reproduction-generators)
 
 ## Reproduction Templates
+
+Starter templates to make it easier for contributors to create reproductions of bugs
 
 - Next.js CodeSandbox reproduction template: [CodeSandbox sandbox](https://codesandbox.io/p/sandbox/github/vercel/next.js/tree/canary/examples/reproduction-template)
 - [Testing Library Reproduction Template](https://github.com/testing-library/dom-testing-library-template)
@@ -23,10 +25,14 @@ List of awesome open source automation
 
 ## Reproduction Generators
 
+Configurable generator web apps or CLIs to make it easier for contributors to create reproductions of bugs
+
 - [Storybook reproduction generator in the CLI](https://storybook.js.org/docs/contribute/how-to-reproduce#initial-setup) 
 - [Porsche Design reproduction generator with StackBlitz](https://twitter.com/stackblitz/status/1648341661762633729)
 
 ## Fully Automated Reproduction Creation
+
+Automated capture of minimal reproductions of bugs without user effort
 
 - [Bun automatic reproduction generator concept](https://twitter.com/jarredsumner/status/1781214396263661985) 
 
