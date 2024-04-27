@@ -1,6 +1,6 @@
 # Awesome Open Source Automation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-List of impressive projects in open source automation
+List of impressive projects automating open source workflows and tooling
 
 ## Contents
 
