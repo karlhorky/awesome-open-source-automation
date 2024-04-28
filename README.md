@@ -4,9 +4,14 @@ List of impressive projects in open source automation
 
 ## Contents
 
+- [Automated Issue Creation](#automated-issue-creation)
 - [Reproduction Templates](#reproduction-templates)
 - [Reproduction Generators](#reproduction-generators)
 - [Fully Automated Reproduction Creation](#fully-automated-reproduction-creation)
+
+## Automated Issue Creation
+
+- [Bun automatic crash reporter](https://bun.sh/blog/bun-report-is-buns-new-crash-reporter)
 
 ## Reproduction Templates
 
@@ -34,4 +39,4 @@ Configurable generator web apps or CLIs to make it easier for contributors to cr
 
 Automated capture of minimal reproductions of bugs without user effort
 
-- [Bun automatic reproduction generator concept](https://twitter.com/jarredsumner/status/1781214396263661985) 
+- [Bun automatic reproduction generator concept](https://twitter.com/jarredsumner/status/1781214396263661985)
